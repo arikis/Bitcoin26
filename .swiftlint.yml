@@ -1,0 +1,9 @@
+disabled_rules:
+  - trailing_whitespace
+  - valid_docs
+  - file_length
+  - line_length
+  - variable_name
+  - function_body_length
+excluded:
+  - Carthage/Checkouts
